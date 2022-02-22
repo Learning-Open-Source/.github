@@ -1,6 +1,6 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
- <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
+ <img align="centre" alt="GIF" src="coder.gif" width="500" height="320" />
 
 <img aling="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
