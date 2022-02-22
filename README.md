@@ -1,8 +1,8 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
-<img aling="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
+<img aling="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
+<img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
 
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
