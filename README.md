@@ -1,5 +1,7 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
+<img align="centre" width="40%" radius="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers-working_23-2148819605.jpg?t=st=1645550453~exp=1645551053~hmac=d280641920ac0895806f7a0e307d005256d1795df2652b09adeb146d92039999&w=826" />
+
 <img aling="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
 <img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
