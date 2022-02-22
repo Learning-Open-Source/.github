@@ -1,10 +1,19 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
-<img align="centre" width="40%" radius="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers-working_23-2148819605.jpg?t=st=1645550453~exp=1645551053~hmac=d280641920ac0895806f7a0e307d005256d1795df2652b09adeb146d92039999&w=826" />
+ <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
 
 <img aling="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
 <img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
+
+
+### Talk with me, I am kinda awesome 📱:
+[<img align="left" alt="Atmagyan | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
+<br>
+
+### Languages and Tools:
 
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -27,3 +36,7 @@
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+
+[linkedin]: https://www.linkedin.com/in/atmagyan-singh-96642115b/
+[instagram]: https://www.instagram.com/blackd3vil_007/
