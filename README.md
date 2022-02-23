@@ -1,14 +1,18 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
- <img align="centre" alt="GIF" src="coder.gif" width="500" height="320" />
+ <img align="centre" alt="GIF" src="coder.gif" width="100%" height="40%" />
 
-<img aling="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
+<img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
-<img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
 
 
 ### Talk with me, I am kinda awesome 📱:
 [<img align="left" alt="Atmagyan | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Atmagyan | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Atmagyan | Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br>
 <br>
@@ -41,3 +45,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/atmagyan-singh-96642115b/
+[instagram]: https://www.instagram.com/blackd3vil_007/
+[whatsapp]: https://api.whatsapp.com/send?phone=+917309085383?
