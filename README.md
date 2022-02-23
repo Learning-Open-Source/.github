@@ -1,20 +1,18 @@
 # Hi there, I'm Atmagyan Singh! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
+
  <img align="centre" alt="GIF" src="coder.gif" width="100%" height="40%" />
 
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
 
-<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact" />
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact&theme=onedark" />
 
 
-### Talk with me, I am kinda awesome 📱:
-[<img align="left" alt="Atmagyan | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Atmagyan | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Atmagyan | Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
-<br>
+#### .📫 Reach me through : 
+<a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/blackd3vil_007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <br>
 
 ### Languages and Tools:
@@ -42,8 +40,3 @@
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-
-[linkedin]: https://www.linkedin.com/in/atmagyan-singh-96642115b/
-[instagram]: https://www.instagram.com/blackd3vil_007/
-[whatsapp]: https://api.whatsapp.com/send?phone=+917309085383?
