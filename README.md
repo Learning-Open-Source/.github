@@ -4,9 +4,9 @@
 
  <img align="centre" alt="GIF" src="coder.gif" width="100%" height="40%" />
 
-<img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-Devil007&show_icons=true&theme=cobalt" />
+<img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
-<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Devil007&layout=compact&theme=onedark" />
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" />
 
 
 #### .📫 Reach me through : 
