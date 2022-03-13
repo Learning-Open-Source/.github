@@ -43,3 +43,5 @@
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
