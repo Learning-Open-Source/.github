@@ -2,11 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Follow&style=social" alt="followers" /></p>
 
- <img align="centre" alt="GIF" src="coder.gif" width="100%" height="40%" />
+ <img align="centre" alt="GIF" src="d3vil.png" width="100%" height="40%" />
 
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
 <img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" />
+
+
+[![Atmagyan github activity graph](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark)](https://github.com/Black-D3vil007/github-readme-activity-graph)
 
 
 **Portfolio**: https://devil-portfolio.herokuapp.com/
