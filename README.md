@@ -1,8 +1,18 @@
-# Hi there, I'm Atmagyan Singh! 👋
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <img width="40%" align="right"   src="" > -->
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Follow&style=social" alt="followers" /></p>
 
- <img align="centre" alt="GIF" src="d3vil.png" width="100%" height="40%" />
+```yaml
+Bio:
+    Name: "Atmagyan Singh"
+    Role: "Looking for Job"
+    Education: "Computer Science Undergradute Student"
+    Location: "Lucknow, Uttar Pradesh, India"
+```
+
+ <img align="centre" alt="GIF" src="d3vil.png" width="50%" height="40%" />
 
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
@@ -14,14 +24,14 @@
 
 **Portfolio**: https://devil-portfolio.herokuapp.com/
 
-#### .📫 Reach me through : 
+#### Reach me through .📫 : 
 <a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/blackd3vil_007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://devil-portfolio.herokuapp.com/"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
 <br>
 
-### Languages and Tools:
+### Languages and Tools 🛠️:
 
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
