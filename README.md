@@ -12,7 +12,7 @@ Bio:
     Location: "Lucknow, Uttar Pradesh, India"
 ```
 
- <img align="centre" alt="GIF" src="d3vil.gif" width="50%" height="40%" />
+ <img align="centre" alt="GIF" src="devil.gif" width="50%" height="40%" />
 
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
