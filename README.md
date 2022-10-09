@@ -4,6 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Follow&style=social" alt="followers" /></p>
 
+<!--### Hello World, I am Atmagyan 👋 -->
+<div> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Atmagyan+;I+am+a+MERN+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
+<img src="devil.gif" width="300px" alt=gif align="right"> 
+</div>
+
 ```yaml
 Bio:
     Name: "Atmagyan Singh"
@@ -12,7 +19,7 @@ Bio:
     Location: "Lucknow, Uttar Pradesh, India"
 ```
 
- <img align="centre" alt="GIF" src="devil.gif" width="50%" height="40%" />
+<!--  <img align="centre" alt="GIF" src="devil.gif" width="50%" height="40%" /> -->
 
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
