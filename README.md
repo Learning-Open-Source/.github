@@ -25,7 +25,7 @@ Bio:
 ### GitHub Trophy 🏆: 
 
 <p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
-  <img width="" src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=8&theme=onedark&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=7&theme=onedark&no-frame=true"/>
 </a></p>
 
 
@@ -42,7 +42,6 @@ Bio:
 
 
 <p align="center"><img src="https://leetcard.jacoblin.cool/Atmagyan?theme=nord&amp;font=B612%20Mono&amp;ext=heatmap" alt="LeetCode Stats"></p>
-
 
 
 
