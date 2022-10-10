@@ -29,14 +29,21 @@ Bio:
 [![Atmagyan github activity graph](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark)](https://github.com/Black-D3vil007/github-readme-activity-graph)
 
 
-**Portfolio**: https://devil-portfolio.herokuapp.com/
-
 #### Reach me through .📫 : 
+
 <a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/blackd3vil_007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://devil-portfolio.herokuapp.com/"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/blackd3vil.007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://my-portfolio-git-main-black-d3vil007.vercel.app//"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
 <br>
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&label=Linktree&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://linktr.ee/atmagyan)
+
+<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Atmagyan?theme=nord&font=B612%20Mono&ext=heatmap)
+
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Black-D3vil007&theme=github-green-purple&border_radius=5)](https://git.io/streak-stats)
 
 ### GitHub Matrices
 ![Metrics](https://metrics.lecoq.io/Black-D3vil007)
