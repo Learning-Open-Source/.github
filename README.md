@@ -20,9 +20,14 @@ Bio:
 
  <p align="center"><img alt="GIF" src="devil.gif" width="50%" height="50%" /></p>
 
-[![@blackd3vil's Holopin board](https://holopin.io/api/user/board?user=blackd3vil)](https://holopin.io/@blackd3vil)
+<p align="center"><a href="https://holopin.io/@blackd3vil"><img width="80%" src="https://holopin.io/api/user/board?user=blackd3vil" alt="@blackd3vil&#39;s Holopin board"></a></p>
 
-<p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&amp;theme=onedark" alt="trophy"></a></p>
+### GitHub Trophy 🏆: 
+
+<p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
+  <img width="" src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=8&theme=onedark&no-frame=true"/>
+</a></p>
+
 
 
 
@@ -54,7 +59,8 @@ Bio:
 
 <br>
 
-### GitHub Matrices
+### GitHub Matrices: 
+
 <p align="center"><img src="https://metrics.lecoq.io/Black-D3vil007" alt="Metrics"></p>
 
 ## 🛠️ My Skills
