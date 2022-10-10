@@ -27,8 +27,9 @@ Bio:
 
 <img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" />
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark&hide_border=true&area=true) 
 
-[![Atmagyan github activity graph](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark)](https://github.com/Black-D3vil007/github-readme-activity-graph)
+ ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg)
 
 
 #### Reach me through .📫 : 
