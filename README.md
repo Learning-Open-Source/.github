@@ -4,12 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Follow&style=social" alt="followers" /></p>
 
-<!--### Hello World, I am Atmagyan 👋 -->
-<div> 
+<!--### Hello World, I am Atmagyan Singh 👋 -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Atmagyan+;I+am+a+MERN+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
-<img src="devil.gif" width="300px" alt=gif align="right"> 
-</div>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&amp;size=40&amp;vCenter=true&amp;width=500&amp;lines=Hey+There!!+%F0%9F%91%8B;I+am+Atmagyan+Singh+;I+am+a+MERN+Stack+Developer&amp;color=ff960d" alt="Typing SVG"></a></p>
+
+
 
 ```yaml
 Bio:
@@ -19,61 +18,147 @@ Bio:
     Location: "Lucknow, Uttar Pradesh, India"
 ```
 
-<!--  <img align="centre" alt="GIF" src="devil.gif" width="50%" height="40%" /> -->
+ <p align="center"><img alt="GIF" src="devil.gif" width="50%" height="50%" /></p>
 
 [![@blackd3vil's Holopin board](https://holopin.io/api/user/board?user=blackd3vil)](https://holopin.io/@blackd3vil)
 
-<img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
+<p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&amp;theme=onedark" alt="trophy"></a></p>
 
-<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" />
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark&hide_border=true&area=true) 
+
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" /></p>
+
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p>
+
+
+### GitHub Streak
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
+
+
+
+<p align="center"><img src="https://leetcard.jacoblin.cool/Atmagyan?theme=nord&amp;font=B612%20Mono&amp;ext=heatmap" alt="LeetCode Stats"></p>
+
+
+
 
 #### Reach me through .📫 : 
 
+<p align="center">
 <a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/blackd3vil.007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://my-portfolio-git-main-black-d3vil007.vercel.app//"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
 <br>
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&label=Linktree&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://linktr.ee/atmagyan)
+  <p><a href="https://linktr.ee/atmagyan"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&amp;label=Linktree&amp;labelColor=%23d9e3f0&amp;countColor=%2337d67a&amp;style=flat-square&amp;labelStyle=upper" alt="Visitors"></a></p>
+ </p>
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Atmagyan?theme=nord&font=B612%20Mono&ext=heatmap)
-
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Black-D3vil007&theme=github-green-purple&border_radius=5)](https://git.io/streak-stats)
-
 ### GitHub Matrices
-![Metrics](https://metrics.lecoq.io/Black-D3vil007)
+<p align="center"><img src="https://metrics.lecoq.io/Black-D3vil007" alt="Metrics"></p>
 
-### Languages and Tools 🛠️:
+## 🛠️ My Skills
 
-<img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### 👉 Programming languages
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
 
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+</p>
 
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+ ### 👉 Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+<!--     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a> -->
+  &emsp;
+<!--     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a> -->
+</p>
 
-<img align="left" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+ ### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+<!--     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a> -->
+</p>
 
-<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ ### 👉 Competitive Programming & Problem Solving
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+<!--     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a> -->
+</p>
 
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+</p>
 
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<br/>
 
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark&hide_border=true&area=true) 
 
-<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg)
+<p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
