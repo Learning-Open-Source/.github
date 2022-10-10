@@ -21,6 +21,8 @@ Bio:
 
 <!--  <img align="centre" alt="GIF" src="devil.gif" width="50%" height="40%" /> -->
 
+[![@blackd3vil's Holopin board](https://holopin.io/api/user/board?user=blackd3vil)](https://holopin.io/@blackd3vil)
+
 <img aling="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" />
 
 <img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" />
