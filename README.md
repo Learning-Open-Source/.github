@@ -38,8 +38,8 @@ Bio:
 <a href="https://devil-portfolio.herokuapp.com/"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
 <br>
 
-### GitHUb Matrices
-![Metrics](https://metrics.lecoq.io/Black-D3vil007?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+### GitHub Matrices
+![Metrics](https://metrics.lecoq.io/Black-D3vil007)
 
 ### Languages and Tools 🛠️:
 
