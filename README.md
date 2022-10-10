@@ -29,9 +29,6 @@ Bio:
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark&hide_border=true&area=true) 
 
- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg)
-
-
 #### Reach me through .📫 : 
 
 <a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
