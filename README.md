@@ -23,6 +23,7 @@ Bio:
 <p align="center"><a href="https://holopin.io/@blackd3vil"><img width="80%" src="https://holopin.io/api/user/board?user=blackd3vil" alt="@blackd3vil&#39;s Holopin board"></a></p>
 
 <hr/>
+
 ### GitHub Trophy 🏆: 
 
 <p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
@@ -37,7 +38,9 @@ Bio:
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p>
 
 <hr/>
+
 ### GitHub Streak:
+
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
 
 
@@ -46,6 +49,7 @@ Bio:
 
 
 <hr/>
+
 #### Reach me through .📫 : 
 
 <p align="center">
@@ -62,6 +66,7 @@ Bio:
 
 
 <hr/>
+
 ### GitHub Matrices: 
 
 <p align="center"><img src="https://metrics.lecoq.io/Black-D3vil007" alt="Metrics"></p>
@@ -90,6 +95,7 @@ Bio:
 </p>
 
 ### 👉 Frontend Development
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
