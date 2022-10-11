@@ -2,7 +2,7 @@
 <!-- <img width="40%" align="right"   src="" > -->
 <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Follow&style=social" alt="followers" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" /></p>
 
 <!--### Hello World, I am Atmagyan Singh 👋 -->
   
@@ -22,6 +22,7 @@ Bio:
 
 <p align="center"><a href="https://holopin.io/@blackd3vil"><img width="80%" src="https://holopin.io/api/user/board?user=blackd3vil" alt="@blackd3vil&#39;s Holopin board"></a></p>
 
+<hr/>
 ### GitHub Trophy 🏆: 
 
 <p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
@@ -35,8 +36,8 @@ Bio:
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p>
 
-
-### GitHub Streak
+<hr/>
+### GitHub Streak:
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
 
 
@@ -44,7 +45,7 @@ Bio:
 <p align="center"><img src="https://leetcard.jacoblin.cool/Atmagyan?theme=nord&amp;font=B612%20Mono&amp;ext=heatmap" alt="LeetCode Stats"></p>
 
 
-
+<hr/>
 #### Reach me through .📫 : 
 
 <p align="center">
@@ -52,15 +53,20 @@ Bio:
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/blackd3vil.007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://my-portfolio-git-main-black-d3vil007.vercel.app//"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
+  <a href="https://twitter.com/BlackD3vil00"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BlackD3vil00?style=social"></a> &nbsp;
 <br>
-  <p><a href="https://linktr.ee/atmagyan"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&amp;label=Linktree&amp;labelColor=%23d9e3f0&amp;countColor=%2337d67a&amp;style=flat-square&amp;labelStyle=upper" alt="Visitors"></a></p>
+  <p align="center"><a href="https://linktr.ee/atmagyan"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&amp;label=Linktree&amp;labelColor=%23d9e3f0&amp;countColor=%2337d67a&amp;style=flat-square&amp;labelStyle=upper" alt="Visitors"></a></p>
  </p>
 
 <br>
 
+
+<hr/>
 ### GitHub Matrices: 
 
 <p align="center"><img src="https://metrics.lecoq.io/Black-D3vil007" alt="Metrics"></p>
+
+<hr/>
 
 ## 🛠️ My Skills
 
@@ -163,7 +169,10 @@ Bio:
 
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&theme=react-dark&hide_border=true&area=true) 
+<hr/>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑"> </p>
+
 
 
 <p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
