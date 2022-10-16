@@ -2,7 +2,10 @@
 <!-- <img width="40%" align="right"   src="" > -->
 <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" /></p>
+<p align="left"> 
+<a href="https://github.com/Black-D3vil007"><img src="https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&amp;logo=github" alt="Hello programmer Welcome to my profile"></a>
+<img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" />
+</p>
 
 <!--### Hello World, I am Atmagyan Singh 👋 -->
   
@@ -37,11 +40,17 @@ Bio:
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p>
 
+<p align="center"> <img width="50%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Black-D3vil007&theme=radical&utcOffset=5"> </p>
+
+
+
 <hr/>
 
 ### GitHub Streak:
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
+
+ <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-D3vil007&theme=dracula" /> </p>
 
 
 
