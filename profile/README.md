@@ -7,15 +7,15 @@
 <img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" />
 </p>
 
-<!--### Hello World, I am Atmagyan Singh 👋 -->
+<!--### Hello World, We are open source developer 👋 -->
   
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&amp;size=40&amp;vCenter=true&amp;width=500&amp;lines=Hey+There!!+%F0%9F%91%8B;I+am+Atmagyan+Singh+;I+am+a+MERN+Stack+Developer&amp;color=ff960d" alt="Typing SVG"></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&amp;size=40&amp;vCenter=true&amp;width=500&amp;lines=Hey+There!!+%F0%9F%91%8B;We+are+Open+Source+Contributers+;We+are+a+MERN+Stack+Developer&amp;color=ff960d" alt="Typing SVG"></a></p>
 
 
 
 ```yaml
 Bio:
-    Name: "Atmagyan Singh"
+    Name: "Open Source Developer"
     Role: "Looking for Job"
     Education: "Computer Science Undergradute Student"
     Location: "Lucknow, Uttar Pradesh, India"
@@ -29,8 +29,8 @@ Bio:
 
 ### GitHub Trophy 🏆: 
 
-<p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=7&theme=onedark&no-frame=true"/>
+<p align="center"><a href="https://github.com/Learning-Open-Source/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Learning-Open-Source&column=7&theme=onedark&no-frame=true"/>
 </a></p>
 
 
